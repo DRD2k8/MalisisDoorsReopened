@@ -1,13 +1,3 @@
 {
-  "itemGroup.malisisdoors": "Example Mod Tab",
-  "block.malisisdoors.example_block": "Example Block",
-  "item.malisisdoors.example_item": "Example Item",
-
-  "malisisdoors.configuration.title": "MalisisDoors: Reopened Configs",
-  "malisisdoors.configuration.section.malisisdoors.common.toml": "MalisisDoors: Reopened Configs",
-  "malisisdoors.configuration.section.malisisdoors.common.toml.title": "MalisisDoors: Reopened Configs",
-  "malisisdoors.configuration.items": "Item List",
-  "malisisdoors.configuration.logDirtBlock": "Log Dirt Block",
-  "malisisdoors.configuration.magicNumberIntroduction": "Magic Number Text",
-  "malisisdoors.configuration.magicNumber": "Magic Number"
+  "itemGroup.malisisdoors": "MalisisDoors"
 }
