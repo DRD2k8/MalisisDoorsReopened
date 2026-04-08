@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:item/generated",
+  "display": {
+    "firstperson_righthand": {
+      "scale": [
+        0.825,
+        0.825,
+        0.825
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.825,
+        0.825,
+        0.825
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        1.02,
+        1.02,
+        1.02
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        1.02,
+        1.02,
+        1.02
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "head": {
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

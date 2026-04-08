@@ -14,7 +14,3 @@ This mod is a port of the original [MalisisDoors](https://www.curseforge.com/min
 # Further information
 
 There are no plans to backport the mod to versions lower than 26.1, but feel free to create a backport yourself if you wish.
-
-# GitHub notice
-
-This mod has paused development until NeoForge 26.1 is fully stable.
