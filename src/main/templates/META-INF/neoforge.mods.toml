@@ -32,3 +32,17 @@ config="${mod_id}.mixins.json"
     versionRange="${minecraft_version_range}"
     ordering="NONE"
     side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="geckolib"
+    type="required"
+    versionRange="[5.5,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="mcwdoors"
+    type="optional"
+    versionRange="[1.1.5,)"
+    ordering="NONE"
+    side="BOTH"
