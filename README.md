@@ -2,7 +2,7 @@
 
 # About
 
-This mod is a port of the original [MalisisDoors](https://www.curseforge.com/minecraft/mc-mods/malisisdoors) by Ordinastie. What began way back in 1.7.2 and silently ended in 1.12.2 has now returned for 26.1+. This project brings back many things such as the custom doors, and the iconic door animations (Compatible with any door).
+This mod is a port of the original [MalisisDoors](https://www.curseforge.com/minecraft/mc-mods/malisisdoors) by Ordinastie. What began way back in 1.7.2 and silently ended in 1.12.2 has now returned for 26.1.2+. This project brings back many things such as the custom doors, and the iconic door animations (Compatible with any door).
 
 # Features
 
@@ -13,8 +13,8 @@ This mod is a port of the original [MalisisDoors](https://www.curseforge.com/min
 
 # Further information
 
-There are no plans to backport the mod to versions lower than 26.1.1, but feel free to create a backport yourself if you wish.
+There are no plans to backport the mod to versions lower than 26.1.2, but feel free to create a backport yourself if you wish.
 
 # GitHub notice
 
-This mod is moving to 26.1.1, and we're waiting for NeoForge to stabilize for that version.
+This mod is moving to 26.1.2, and we're waiting for NeoForge to stabilize for that version.
