@@ -89,9 +89,6 @@ configurations {
 }
 
 dependencies {
-    // Required dependencies
-    implementation "com.geckolib:geckolib-neoforge-${minecraft_version}:${geckolib_version}"
-
     // Optional dependencies
     implementation "curse.maven:macaws-doors-378646:${mcwdoors_id}"
 
