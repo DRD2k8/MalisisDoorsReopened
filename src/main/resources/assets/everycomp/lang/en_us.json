@@ -1,0 +1,9 @@
+{
+  "block_type.malisisdoors.carriage_door": "%s Carriage Door",
+  "block_type.malisisdoors.garage_door": "%s Garage Door",
+  "block_type.malisisdoors.glass_door": "%s Glass Door",
+  "block_type.malisisdoors.medieval_door": "%s Medieval Door",
+  "block_type.malisisdoors.large_door_3x3": "Large %s Double Doors",
+  "block_type.malisisdoors.saloon_door": "%s Saloon Door",
+  "block_type.malisisdoors.shoji_door": "%s Shoji Door"
+}

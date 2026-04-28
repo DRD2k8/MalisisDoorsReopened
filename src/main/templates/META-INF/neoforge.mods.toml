@@ -20,22 +20,22 @@ The animated doors and custom doors are back!
 config="${mod_id}.mixins.json"
 
 [[dependencies.${mod_id}]]
-    modId="neoforge"
-    type="required"
-    versionRange="[${neo_version},)"
-    ordering="NONE"
-    side="BOTH"
+modId="neoforge"
+type="required"
+versionRange="[${neo_version},)"
+ordering="NONE"
+side="BOTH"
 
 [[dependencies.${mod_id}]]
-    modId="minecraft"
-    type="required"
-    versionRange="${minecraft_version_range}"
-    ordering="NONE"
-    side="BOTH"
+modId="minecraft"
+type="required"
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
 
 [[dependencies.${mod_id}]]
-    modId="mcwdoors"
-    type="optional"
-    versionRange="[1.1.5,)"
-    ordering="NONE"
-    side="BOTH"
+modId="mcwdoors"
+type="optional"
+versionRange="[1.1.5,)"
+ordering="NONE"
+side="BOTH"
