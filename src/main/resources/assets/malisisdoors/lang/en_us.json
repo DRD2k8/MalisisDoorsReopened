@@ -364,6 +364,14 @@
 
   "block.malisisdoors.rusty_iron_trapdoor": "Rusty Iron Trapdoor",
 
+  "config.malisisdoors.modify_vanilla_doors": "Enable vanilla doors improvement",
+  "config.malisisdoors.modify_vanilla_doors.description": "Enables the animations for doors, fence gates, and trapdoors, and also supports the ones from other mods. If you're using another mod that also adds animations for those, then you might want to change it to false.",
+  "config.malisisdoors.modify_macaws_doors": "Enable Macaw's doors improvement",
+  "config.malisisdoors.modify_macaws_doors.description": "Enables the animations for Macaw's doors and trapdoors. This only works if Macaw's Doors and Macaw's Trapdoors are installed.",
+  "config.malisisdoors.modify_dramatic_doors": "Enable Dramatic doors improvement",
+  "config.malisisdoors.modify_dramatic_doors.description": "Enables the animations for the short and tall doors from Dramatic Doors. This only works if Dramatic Doors is installed.",
+  "config.malisisdoors.use_3d_items": "Render the door items in 3D",
+
   "container.malisisdoors.door_factory": "Door Factory",
   "container.malisisdoors.door_factory.button_create_door": "Create door",
   "container.malisisdoors.door_factory.tab_properties": "Properties",
@@ -387,6 +395,7 @@
   "container.malisisdoors.door_factory.tab_materials.section_modify.door": "Door to modify",
   "container.malisisdoors.door_factory.tab_digicode": "Digicode",
 
+  "door_movement.malisisdoors.curtain": "Curtain",
   "door_movement.malisisdoors.double_rotating_left": "Double rotating left",
   "door_movement.malisisdoors.double_rotating_right": "Double rotating right",
   "door_movement.malisisdoors.double_sliding_left": "Double sliding left",
@@ -397,6 +406,7 @@
   "door_movement.malisisdoors.rotating_door_split": "Rotating up and down",
   "door_movement.malisisdoors.rotating_replacing": "Rotating and replacing",
   "door_movement.malisisdoors.rotating_sliding": "Rotating and sliding",
+  "door_movement.malisisdoors.saloon_door": "Saloon door",
   "door_movement.malisisdoors.spinning_door": "Spinning",
   "door_movement.malisisdoors.sliding_door_4ways": "Sliding four ways",
   "door_movement.malisisdoors.sliding_door_side": "Sliding on the side",
