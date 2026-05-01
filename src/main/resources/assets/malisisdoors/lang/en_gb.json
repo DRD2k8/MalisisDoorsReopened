@@ -459,5 +459,7 @@
 
   "itemGroup.malisisdoors": "MalisisDoors",
   "itemGroup.malisisdoors.dramaticdoors": "MalisisDoors: Dramatic Doors",
-  "itemGroup.malisisdoors.macawsdoors": "MalisisDoors: Macaw's Doors"
+  "itemGroup.malisisdoors.macawsdoors": "MalisisDoors: Macaw's Doors",
+
+  "subtitles.malisisdoors.block.sliding_door": "Door slides"
 }

@@ -1,0 +1,218 @@
+{
+  "block.bamboo_carriage_door.close": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/carriage_door/close_bamboo"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.bamboo_carriage_door.open": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/carriage_door/open_bamboo"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.bamboo_glass_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/glass_door/bamboo_wood"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.bamboo_shoji_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/shoji_door/toggle_bamboo"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.carriage_door.close": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/carriage_door/close"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.carriage_door.open": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/carriage_door/open"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.cherry_carriage_door.close": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/carriage_door/close_cherry"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.cherry_carriage_door.open": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/carriage_door/open_cherry"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.cherry_glass_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/glass_door/toggle_cherry"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.cherry_shoji_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/shoji_door/toggle_cherry"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.copper_glass_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/glass_door/toggle_copper"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.copper_jail_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/jail_door/toggle_copper"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.iron_glass_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/glass_door/toggle_iron"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.iron_jail_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/jail_door/toggle_iron"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.nether_carriage_door.close": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/carriage_door/close_nether"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.nether_carriage_door.open": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/carriage_door/open_nether"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.nether_glass_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/glass_door/toggle_nether"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.nether_shoji_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/shoji_door/toggle_nether"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.pneumatic_door.close": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/pneumatic_door/close"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.pneumatic_door.open": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/pneumatic_door/open"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.rusty_hatch.close": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/rusty_hatch/close"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.rusty_hatch.open": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/rusty_hatch/open"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.rusty_iron_door.close": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/rusty_iron_door/close"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.rusty_iron_door.open": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/rusty_iron_door/open"
+      }
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.rusty_iron_glass_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/glass_door/toggle_rusty_iron"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.shoji_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/shoji_door/toggle"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  },
+  "block.wooden_glass_door.toggle": {
+    "sounds": [
+      {
+        "name": "malisisdoors:block/glass_door/toggle_wood"
+      }
+    ],
+    "subtitle": "subtitles.malisisdoors.block.sliding_door"
+  }
+}
