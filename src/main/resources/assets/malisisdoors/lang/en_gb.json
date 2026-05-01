@@ -364,12 +364,9 @@
 
   "block.malisisdoors.rusty_iron_trapdoor": "Rusty Iron Trapdoor",
 
-  "config.malisisdoors.modify_vanilla_doors": "Enable vanilla doors improvement",
-  "config.malisisdoors.modify_vanilla_doors.description": "Enables the animations for doors, fence gates, and trapdoors, and also supports the ones from other mods. If you're using another mod that also adds animations for those, then you might want to change it to false.",
-  "config.malisisdoors.modify_macaws_doors": "Enable Macaw's doors improvement",
-  "config.malisisdoors.modify_macaws_doors.description": "Enables the animations for Macaw's doors and trapdoors. This only works if Macaw's Doors and Macaw's Trapdoors are installed.",
-  "config.malisisdoors.modify_dramatic_doors": "Enable Dramatic doors improvement",
-  "config.malisisdoors.modify_dramatic_doors.description": "Enables the animations for the short and tall doors from Dramatic Doors. This only works if Dramatic Doors is installed.",
+  "config.malisisdoors.modify_vanilla_doors": "Enable vanilla doors improvement\n§7Enables the animations for doors, fence gates, and trapdoors, and also supports the ones from other mods. Only change it to OFF if you don't want this to conflict with other mods that animate doors.",
+  "config.malisisdoors.modify_macaws_doors": "Enable Macaw's doors improvement\n§7Enables the animations for Macaw's doors and trapdoors. This only works if Macaw's Doors and Macaw's Trapdoors are installed.",
+  "config.malisisdoors.modify_dramatic_doors": "Enable Dramatic doors improvement\n§7Enables the animations for the short and tall doors from Dramatic Doors. This only works if Dramatic Doors is installed.",
   "config.malisisdoors.use_3d_items": "Render the door items in 3D",
 
   "container.malisisdoors.door_factory": "Door Factory",

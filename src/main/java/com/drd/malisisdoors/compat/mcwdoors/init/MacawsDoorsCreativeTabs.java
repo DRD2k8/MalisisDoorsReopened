@@ -1,4 +1,4 @@
-package com.drd.malisisdoors.compat.mcwdoors;
+package com.drd.malisisdoors.compat.mcwdoors.init;
 
 import com.drd.malisisdoors.MalisisDoorsReopened;
 import com.mcwdoors.kikoz.init.ItemInit;

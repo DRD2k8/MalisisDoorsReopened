@@ -9,7 +9,7 @@ displayName="${mod_name}"
 # Waiting until the mod is finished
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
 
-logoFile="logo.png"
+logoFile= "malisisdoors.png"
 credits="Ordinastie, for the original Malisis Doors"
 authors="Dandi2k8"
 description='''

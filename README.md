@@ -1,4 +1,4 @@
-![Malisis Doors Reopened](src/main/resources/logo.png)
+![Malisis Doors Reopened](src/main/resources/malisisdoors.png)
 
 # About
 
