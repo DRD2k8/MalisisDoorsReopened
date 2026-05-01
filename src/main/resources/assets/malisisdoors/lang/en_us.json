@@ -460,5 +460,7 @@
 
   "item.malisisdoors.forcefield_controller": "Force Field Controller",
 
-  "itemGroup.malisisdoors": "MalisisDoors: Reopened"
+  "itemGroup.malisisdoors": "MalisisDoors",
+  "itemGroup.malisisdoors.dramaticdoors": "MalisisDoors: Dramatic Doors",
+  "itemGroup.malisisdoors.macawsdoors": "MalisisDoors: Macaw's Doors"
 }

@@ -1,7 +1,10 @@
 package com.drd.malisisdoors;
 
+import com.drd.malisisdoors.compat.mcwdoors.MacawsDoorsCreativeTabs;
+import com.drd.malisisdoors.init.ModCreativeTabs;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;
+import net.neoforged.fml.ModList;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
@@ -16,6 +19,11 @@ public class MalisisDoorsReopened {
         modEventBus.addListener(this::commonSetup);
 
         NeoForge.EVENT_BUS.register(this);
+
+        ModCreativeTabs.register(modEventBus);
+        if (ModList.get().isLoaded("mcwdoors")) {
+            MacawsDoorsCreativeTabs.register(modEventBus);
+        }
     }
 
     private void commonSetup(FMLCommonSetupEvent event) {
