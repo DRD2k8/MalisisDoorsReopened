@@ -3,8 +3,7 @@ package com.drd.malisisdoors;
 import com.drd.malisisdoors.compat.mcwdoors.init.MacawsDoorsCreativeTabs;
 import com.drd.malisisdoors.config.ClientConfig;
 import com.drd.malisisdoors.config.CommonConfig;
-import com.drd.malisisdoors.init.ModCreativeTabs;
-import com.drd.malisisdoors.init.ModSounds;
+import com.drd.malisisdoors.init.*;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.ModList;
@@ -24,7 +23,9 @@ public class MalisisDoorsReopened {
 
         NeoForge.EVENT_BUS.register(this);
 
+        ModBlocks.register(modEventBus);
         ModCreativeTabs.register(modEventBus);
+        ModItems.register(modEventBus);
         ModSounds.register(modEventBus);
 
         if (ModList.get().isLoaded("mcwdoors")) {
