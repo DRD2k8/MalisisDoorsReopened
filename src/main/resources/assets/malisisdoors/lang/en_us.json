@@ -439,6 +439,9 @@
   "door_sound.malisisdoors.nether_glass_door": "Nether glass door",
   "door_sound.malisisdoors.wooden_glass_door": "Wooden glass door",
 
+  "door_sound.malisisdoors.copper_jail_door": "Copper jail door",
+  "door_sound.malisisdoors.iron_jail_door": "Iron jail door",
+
   "door_sound.malisisdoors.pneumatic_door": "Pneumatic door",
 
   "door_sound.malisisdoors.shoji_door": "Shoji door",

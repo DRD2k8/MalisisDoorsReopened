@@ -23,9 +23,7 @@ public class MalisisDoorsReopened {
 
         NeoForge.EVENT_BUS.register(this);
 
-        ModBlocks.register(modEventBus);
         ModCreativeTabs.register(modEventBus);
-        ModItems.register(modEventBus);
         ModSounds.register(modEventBus);
 
         if (ModList.get().isLoaded("mcwdoors")) {
